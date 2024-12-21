@@ -1,0 +1,14 @@
+openai
+pillow
+moviepy == 1.0.3
+ffmpeg
+ffmpeg-python
+numpy
+textwrap3
+flask
+python-dotenv
+google-cloud-storage
+flask-cors
+requests
+Pillow
+gunicorn
